@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e92bf70-0070-4185-9572-66793db2c086" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="showPreview" value="true" />
+  </component>
+  <component name="ProjectId" id="1h5qGml1EK86rdOT8Bp97YY8RdZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ts.external.directory.path" value="C:\Users\Jaime\Desktop\BOOTCAMP\6) Abel-Angular\Ejercicios\Shopeame\Mi Version\shopeame\node_modules\typescript\lib" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e92bf70-0070-4185-9572-66793db2c086" name="Default Changelist" comment="" />
+      <created>1599311207913</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599311207913</updated>
+      <workItem from="1599311208973" duration="11231000" />
+      <workItem from="1599323330547" duration="8494000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1733" y="209" key="FileChooserDialogImpl" timestamp="1599323196109">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state x="1733" y="209" key="FileChooserDialogImpl/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1599323196109" />
+    <state x="86" y="0" width="1280" height="913" key="SettingsEditor" timestamp="1599318326796">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="1366" y="179" width="1280" height="768" key="SettingsEditor/0.0.1366.768/1366.0.1280.1024@0.0.1366.768" timestamp="1599316651010" />
+    <state x="86" y="0" width="1280" height="913" key="SettingsEditor/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1599318326796" />
+    <state x="1752" y="177" width="669" height="699" key="StructurePopup" timestamp="1599323101891">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state x="412" y="133" width="570" height="524" key="StructurePopup/0.0.1366.768/1366.0.1280.1024@0.0.1366.768" timestamp="1599314069663" />
+    <state x="1752" y="177" width="669" height="699" key="StructurePopup/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1599323101891" />
+    <state width="623" height="531" key="SwitcherDM" timestamp="1599327404986">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state width="498" height="398" key="SwitcherDM/0.0.1366.768/1366.0.1280.1024@0.0.1366.768" timestamp="1599314152094" />
+    <state width="623" height="531" key="SwitcherDM/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1599327404986" />
+    <state x="0" y="0" width="1268" height="832" key="dock-window-1" timestamp="1599327799625">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="0" y="0" width="1268" height="832" key="dock-window-1/0.0.1366.768/1366.0.1280.1024@0.0.1366.768" timestamp="1599327799625" />
+    <state x="530" y="230" width="769" height="341" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1599312897985">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="530" y="230" width="769" height="341" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.768/1366.0.1280.1024@0.0.1366.768" timestamp="1599312897985" />
+    <state x="347" y="176" key="run.anything.popup" timestamp="1599314400857">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="347" y="176" key="run.anything.popup/0.0.1366.768/1366.0.1280.1024@0.0.1366.768" timestamp="1599314400857" />
+    <state x="1690" y="119" width="840" height="904" key="search.everywhere.popup" timestamp="1599330374784">
+      <screen x="1366" y="0" width="1280" height="1024" />
+    </state>
+    <state x="346" y="89" width="840" height="678" key="search.everywhere.popup/0.0.1366.768/1366.0.1280.1024@0.0.1366.768" timestamp="1599328513386" />
+    <state x="1690" y="119" width="840" height="904" key="search.everywhere.popup/0.0.1366.768/1366.0.1280.1024@1366.0.1280.1024" timestamp="1599330374784" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/shopeame/src/app/app.component.ts</url>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
